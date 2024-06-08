@@ -1,0 +1,1 @@
+NASDAQ_API_KEY=PXchpyEzzwc9QzxM6RGS
